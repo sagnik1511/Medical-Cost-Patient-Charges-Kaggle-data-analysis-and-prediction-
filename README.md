@@ -1,6 +1,7 @@
 # Medical-Cost-Patient-Charges-Kaggle-data-analysis-and-prediction-
 Regression model task on a small size dataset (medical log)
 
+![](https://github.com/sagnik1511/Medical-Cost-Patient-Charges-Kaggle-data-analysis-and-prediction-/blob/main/download%20(1).jfif)
 
 Link of the data  -    https://www.kaggle.com/mirichoi0218/insurance
 
